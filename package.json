@@ -1,7 +1,7 @@
 {
   "name": "nextgen-web-solutions",
   "version": "1.0.0",
-  "description": "",
+  "description": "MAPI REST con Express que expone el catálogo de servicios de NextGen Web Solutions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +9,14 @@
     "lint": "eslint .",
     "format": "prettier --write ."
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "express",
+    "api",
+    "microservicio",
+    "eslint",
+    "prettier"
+  ],
+  "author": "Carlos Pascual Geler",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
